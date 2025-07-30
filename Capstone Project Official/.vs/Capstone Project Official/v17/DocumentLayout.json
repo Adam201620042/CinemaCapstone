@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\901586\\source\\repos\\Capstone Project Official\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1F1898-20D0-47CA-987E-6BB23927A328}|Capstone Project Official\\Capstone Project Official.csproj|c:\\users\\901586\\source\\repos\\capstone project official\\capstone project official\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1F1898-20D0-47CA-987E-6BB23927A328}|Capstone Project Official\\Capstone Project Official.csproj|solutionrelative:capstone project official\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\901586\\source\\repos\\Capstone Project Official\\Capstone Project Official\\Program.cs",
+              "RelativeDocumentMoniker": "Capstone Project Official\\Program.cs",
+              "ToolTip": "C:\\Users\\901586\\source\\repos\\Capstone Project Official\\Capstone Project Official\\Program.cs*",
+              "RelativeToolTip": "Capstone Project Official\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T17:04:03.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
